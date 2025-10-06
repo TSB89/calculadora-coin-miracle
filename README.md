@@ -6,7 +6,7 @@ Uma calculadora web interativa e responsiva para otimizar investimentos em Mirac
 Você pode acessar o projeto de duas formas:
 
 1. **Via GitHub Pages** (mais prático):  
-   👉 [Acesse aqui](https://tsb89.github.io/calculadora-coin-exordion/)   
+   👉 [Acesse aqui](https://tsb89.github.io/calculadora-coin-miracle/)   
  
 2. **Localmente no navegador**:
    * Clone o repositório ou baixe os arquivos.
